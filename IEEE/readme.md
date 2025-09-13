@@ -1,4 +1,4 @@
-Exercise 2.4:
+$\section{Exercise 2.4}:
 
 
 Nous attendons que la condition dans la boucle while soit vérifiée indéfiniment, et A est doublé à chaque itération, tandis qu'au cours de l'exécution, nous rencontrons un comportement non trivial :
