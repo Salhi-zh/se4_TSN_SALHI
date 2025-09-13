@@ -35,4 +35,4 @@ def print_float_representation(f):
     print(f"Mantissa: {mantissa_value}")
     print(f"Actual value: {sign_value} * 2^{exponent_value} * {mantissa_value}")
 
-print_float_representation(0.123)
+print_float_representation(0.1)
