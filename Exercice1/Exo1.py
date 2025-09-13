@@ -38,6 +38,7 @@ for i in range(1, 21):
 def square(x):
     return x ** 2
 
+
 grades = {"alice": 15, "bob": 12, "Clara": 18}
 print("Clara's grade:", grades["Clara"])
 grades["David"] = 14
